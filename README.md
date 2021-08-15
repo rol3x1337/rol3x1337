@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert!</h1>
-<h3 align="center">A passionate frontend developer from IndiaI'm 16 years old and I'm studying about CyberSecurity.</h3>
+<h3 align="center">I'm 16 years old and I'm studying about CyberSecurity.</h3>
 
 <p align="left"> <a href="https://twitter.com/mrrol3x" target="blank"><img src="https://img.shields.io/twitter/follow/mrrol3x?logo=twitter&style=for-the-badge" alt="mrrol3x" /></a> </p>
 
