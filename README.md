@@ -5,13 +5,13 @@
 
 - 👨‍💻 I'm actually volunteer on [CERT-RO](https://cert.ro)
 
-- 📚 At the moment, i'm learning ** Node.JS, Python, and C++ **
+- 📚 At the moment, i'm learning **Node.JS, Python, and C++**
 
-- 💬 Ask me about ** LUA, JavaScript. **
+- 💬 Ask me about **LUA, JavaScript.**
 
 - 📫 How to reach me **contact@mrrol3x.com**
 
-- ⚡ Fun fact ** for the first time, I didn't like them at all, now i love them. **
+- ⚡ Fun fact **for the first time, I didn't like them at all, now i love them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
