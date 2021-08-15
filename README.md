@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@mrrol3x.com**
 
-- ⚡ Fun fact **for the first time, I didn't like them at all, now i love them.**
+- ⚡ Fun fact: **for the first time, I didn't like them at all, now i love them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
