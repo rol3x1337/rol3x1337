@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrrol3x" target="blank"><img src="https://img.shields.io/twitter/follow/mrrol3x?logo=twitter&style=for-the-badge" alt="mrrol3x" /></a> </p>
 
-- 👨‍💻 I'm actually volunteer on [CERT-RO](https://cert.ro)
+- 👨‍💻 Momentarily i'm a volunteer at [CERT-RO](https://cert.ro)
 
 - 📚 At the moment, i'm learning **Node.JS, Python, and C++**
 
