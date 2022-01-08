@@ -5,7 +5,7 @@
 
 - 📚 At the moment, i'm learning **Node.JS, Python, and C++**
 
-- 💬 Ask me about **LUA, JavaScript.**
+- 💬 You can ask me, about **LUA, JS**
 
 - 📫 How to reach me **contact@mrrol3x.com**
 
