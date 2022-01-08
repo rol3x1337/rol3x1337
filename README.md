@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **contact@mrrol3x.com**
 
-- ⚡ Fun fact: **for the first time, I didn't like them at all, now i love them.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrrol3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrrol3x" height="30" width="40" /></a>
