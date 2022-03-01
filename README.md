@@ -7,7 +7,7 @@
 
 - 💬 You can ask me, about **LUA, JS**
 
-- 📫 How to reach me **contact@mrrol3x.com**
+- 📫 How to reach me **private [at] rol3x.network**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
