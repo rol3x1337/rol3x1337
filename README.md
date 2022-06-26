@@ -98,4 +98,4 @@
 <br />
 
 ----
-<div align="center">buy some<a href="https://scyte.ro/" target="_blank">hosting</a></div>
+<div align="center">buy some<a href="https://scyte.ro/" target="_blank"> hosting</a></div>
