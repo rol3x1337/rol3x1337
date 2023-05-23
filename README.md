@@ -12,7 +12,7 @@
 - 💬 You can ask me, about LUA, JS  
   
 
-- 📫 How to reach me: private@rol3x.network  
+- 📫 How to reach me: dev@rol3x.shop  
   
 
 <br/>  
