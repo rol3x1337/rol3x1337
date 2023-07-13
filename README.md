@@ -8,7 +8,7 @@ I am a scripting developer (LUA, PYTHON) based in Germany. The passion just beca
   <tr>
     <td>
 		<a href="https://discord.com/users/1018290650602553364" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20working.." alt="Discord Presence" align="center">
+			<img src="https://lanyard-profile-readme.vercel.app/api/1018290650602553364?idleMessage=Probably%20working.." alt="Discord Presence" align="center">
 		</a>
     </td>
   </tr>
