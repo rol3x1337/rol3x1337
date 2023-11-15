@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm Robert 🏴‍☠️</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm Robert 🏴‍☠️</h1>
 <h3 align="center">Developing anything you wish.</h3>
 <h3 align="center">Feel free to reach me for any questions.</h3>
 <br />
@@ -11,7 +11,7 @@
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rol3x1337&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="patron112" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rol3x1337&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="rol3x1337" />
 </p>
 
 <br />
