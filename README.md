@@ -41,5 +41,5 @@
 <p align="center">
 <code><img width="15%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"></code>
 <code><img width="20%" src="https://i.imgur.com/o2ohf1x.png"></code>
-<code><img width="17%" src="https://static.cdnlogo.com/logos/a/49/android-2019.svg"></code>
+<code><img width="17%" src="https://static.cdnlogo.com/logos/a/19/apple.svg"></code>
 </p>
