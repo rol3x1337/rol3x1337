@@ -19,12 +19,9 @@
 <h1 align="center">What I use:</h1>
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="9%" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
 <code><img width="13%" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"></code>
 
