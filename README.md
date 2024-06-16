@@ -18,8 +18,6 @@
 
 > 📦 857.0 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -86,6 +84,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 20:16:35 UTC
+ Last Updated on 16/06/2024 20:37:52 UTC
 <!--END_SECTION:waka-->
 </details>
