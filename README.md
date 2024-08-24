@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 955.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,6 +78,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2024 21:38:26 UTC
+ Last Updated on 24/08/2024 22:15:31 UTC
 <!--END_SECTION:waka-->
 </details>
