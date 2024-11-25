@@ -71,13 +71,13 @@ No Activity Tracked This Week
 JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 Lua                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 25/11/2024 19:37:18 UTC
+ Last Updated on 25/11/2024 20:21:58 UTC
 <!--END_SECTION:waka-->
 </details>
