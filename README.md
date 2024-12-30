@@ -18,8 +18,6 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -78,6 +76,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 13:39:34 UTC
+ Last Updated on 30/12/2024 14:17:23 UTC
 <!--END_SECTION:waka-->
 </details>
